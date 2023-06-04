@@ -108,7 +108,7 @@ section .row .content {
 
 section .row .content h1 {
  font-size: 6.5rem;
- color: var(--white);
+ color: yellow;
  font-weight: bold;
  text-shadow: 2px 2px 5px black;
  margin-top: auto;
